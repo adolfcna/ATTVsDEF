@@ -1,11 +1,11 @@
 # Red Team & Blue Team Operations Cheat Sheet
 This project provides a concise and actionable cheat sheet tailored for professionals involved in cybersecurity offensive (Red Team) and defensive (Blue Team) operations. It serves as a quick reference guide to enhance security assessments, incident response, and tactical decision-making.
 
-## Command References:
+## Command References
 Essential commands for tools like Metasploit, Cobalt Strike, Empire, PowerShell, Sysinternals, and more.
 Blue Team logs and detections using Splunk, ELK Stack, Wireshark, etc.
 
-## TTPs (Tactics, Techniques, and Procedures):
+## TTPs (Tactics, Techniques, and Procedures)
 Mapped to MITRE ATT&CK framework for Red Team activities.
 Defensive mapping for Blue Team countermeasures.
 
