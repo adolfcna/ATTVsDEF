@@ -1,9 +1,5 @@
 
-
-
-![ch](https://github.com/user-attachments/assets/af3a41c1-6895-4aa2-a25a-885a2dd7b8d5)
-
-
+<img src="https://github.com/adolfcna/ATTVsDEF/blob/main/asset/ch.jpg" width=1000 higth=850>
 
 
 # Red Team & Blue Team Operations Cheat Sheet
