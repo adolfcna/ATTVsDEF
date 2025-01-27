@@ -56,11 +56,11 @@
 
 ```dig axfr @NS domain.com```
 
-```nslookup> set querytype=soa```
-
-```nslookup> domain.com```
-
-```nslookup> ls -d ns1.domain.com``` 
+```ps
+nslookup> set querytype=soa
+nslookup> domain.com
+nslookup> ls -d ns1.domain.com
+``` 
 
 ```dnsenum domain.com```
 
@@ -74,7 +74,4 @@
 
 ```fierce -dns domain.com```
 
-```bash
-git clone https://github.com/username/repository.git
-git status
 
