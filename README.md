@@ -1,3 +1,11 @@
+
+
+
+![ch](https://github.com/user-attachments/assets/af3a41c1-6895-4aa2-a25a-885a2dd7b8d5)
+
+
+
+
 # Red Team & Blue Team Operations Cheat Sheet
 This project provides a concise and actionable cheat sheet tailored for professionals involved in cybersecurity offensive (Red Team) and defensive (Blue Team) operations. It serves as a quick reference guide to enhance security assessments, incident response, and tactical decision-making.
 
