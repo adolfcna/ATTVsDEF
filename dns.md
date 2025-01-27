@@ -3,11 +3,15 @@ Config
 `~# resolvectl status
 
 
-Scan:
-	`~# nmap -T4 -p 53 --script broadcast-dns-service-discovery x.x.x.x
-	`~# nmap -T4 -p 53 --script dns-brute x.x.x.x
-	`~# nmap -Pn -sU -p 53 --script dns-recursion x.x.x.x
-	`~# nmap -sU -p 53 --script dns-nsec-enum --script-args dns-nsec-enum.domains= domain.com x.x.x.x
+- Scan with Nmap
+
+```nmap -T4 -p 53 --script broadcast-dns-service-discovery x.x.x.x```
+
+```nmap -T4 -p 53 --script dns-brute x.x.x.x```
+
+```nmap -Pn -sU -p 53 --script dns-recursion x.x.x.x```
+
+```nmap -sU -p 53 --script dns-nsec-enum --script-args dns-nsec-enum.domains= domain.com x.x.x.x```
 	
 
 
