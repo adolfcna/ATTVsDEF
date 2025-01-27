@@ -3,7 +3,7 @@
 
 ### Scan with Nmap
 
-```nmap -T4 -p 53 --script broadcast-dns-service-discovery x.x.x.x```
+```bash nmap -T4 -p 53 --script broadcast-dns-service-discovery x.x.x.x```
 
 ```nmap -T4 -p 53 --script dns-brute x.x.x.x```
 
@@ -57,7 +57,9 @@
 ```dig axfr @NS domain.com```
 
 ```nslookup> set querytype=soa```
+
 ```nslookup> domain.com```
+
 ```nslookup> ls -d ns1.domain.com``` 
 
 ```dnsenum domain.com```
@@ -71,3 +73,8 @@
 ```dnsrecon -t axfr -d domain.com //zonetransfer```
 
 ```fierce -dns domain.com```
+
+```bash
+git clone https://github.com/username/repository.git
+git status
+
