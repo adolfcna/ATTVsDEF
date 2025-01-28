@@ -1,6 +1,5 @@
 
 <img src="https://github.com/adolfcna/ATTVsDEF/blob/main/asset/ch.jpg" width=1000 higth=850>
-
 # Red Team & Blue Team Operations Cheat Sheet
 This project provides a concise and actionable cheat sheet tailored for professionals involved in cybersecurity offensive (Red Team) and defensive (Blue Team) operations. It serves as a quick reference guide to enhance security assessments, incident response, and tactical decision-making.
 
